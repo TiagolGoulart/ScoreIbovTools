@@ -34,4 +34,4 @@ Para obter mais informações sobre o Score Ibov e baixar o aplicativo na Google
 
 ## Licença
 
-Este projeto é licenciado sob a [MIT License](LICENSE).
+Este projeto é licenciado sob a [GPL-3.0 license](LICENSE).
